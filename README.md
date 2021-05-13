@@ -1,5 +1,4 @@
-# Swordfish
+# The Hacking Repostory
 
-A general-purpose backdoor for ethical hacking. Made with utility in mind.
-
-Made using a combination of C#, Java, and Python.
+This is just a repository for me to dump my software
+pertaining to hacking and security and such.
